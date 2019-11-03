@@ -9,7 +9,7 @@ Lanc remastered works on any gaming console but focuses on Playstation and Xbox.
 Operational on a wired (ethernet) and wireless (wifi) connection.
 
 <h4> Geo Location </h4>
-Tracks the geogrpahical location, country and ISP of all connections.
+Tracks the geographical location, country and ISP of all connections.
 
 <h4> Customizable </h4>
 Able to edit source, destination IP and specify specific port numbers.
@@ -30,5 +30,5 @@ Check out our <a href="https://lanc-remastered.com/2019/09/14/how-to-pull-ips-on
 Any problem related queries should go into our forum section or you can follow our repair section <a href="https://lanc-remastered.com/2019/09/15/fix-lanc-remastered/"> here. </a>
 
 <h2> Where to Download Lanc? </h2>
-Latest releases for lanc v2 and remastered edition should be downloaded directly from our website.
+Latest releases for lanc v2 and remastered edition should be downloaded directly from our <a href="https://lanc-remastered.com"> website. </a>
 Source Code can be found in this repository.
